@@ -18,4 +18,4 @@ The RR algorithm is a preemptive scheduling algorithm that assigns a fixed time 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to
+This repository is licensed under the [MIT License](LICENSE)
